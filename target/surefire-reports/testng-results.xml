@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="46277" started-at="2022-05-29T04:33:50 CDT" finished-at="2022-05-29T04:34:36 CDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46277" started-at="2022-05-29T04:33:50 CDT" finished-at="2022-05-29T04:34:36 CDT">
+      <class name="scripts.TestCase4">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase4@6e1567f1]" name="setup" is-config="true" duration-ms="1244" started-at="2022-05-29T04:34:11 CDT" finished-at="2022-05-29T04:34:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ComfyEliteSendMsgForm()[pri:0, instance:scripts.TestCase4@6e1567f1]" name="ComfyEliteSendMsgForm" duration-ms="2659" started-at="2022-05-29T04:34:13 CDT" finished-at="2022-05-29T04:34:15 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComfyEliteSendMsgForm -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase4@6e1567f1]" name="teardown" is-config="true" duration-ms="3792" started-at="2022-05-29T04:34:15 CDT" finished-at="2022-05-29T04:34:19 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase4 -->
+      <class name="scripts.TestCase5">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase5@5cb9f472]" name="setup" is-config="true" duration-ms="1238" started-at="2022-05-29T04:34:19 CDT" finished-at="2022-05-29T04:34:20 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ComfyEliteContactUsPageSignUp()[pri:0, instance:scripts.TestCase5@5cb9f472]" name="ComfyEliteContactUsPageSignUp" duration-ms="5734" started-at="2022-05-29T04:34:20 CDT" finished-at="2022-05-29T04:34:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComfyEliteContactUsPageSignUp -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase5@5cb9f472]" name="teardown" is-config="true" duration-ms="3725" started-at="2022-05-29T04:34:26 CDT" finished-at="2022-05-29T04:34:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase5 -->
+      <class name="scripts.TestCase6">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase6@cb644e]" name="setup" is-config="true" duration-ms="1260" started-at="2022-05-29T04:34:30 CDT" finished-at="2022-05-29T04:34:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ComfyEliteContactUsPageSendButton()[pri:0, instance:scripts.TestCase6@cb644e]" name="ComfyEliteContactUsPageSendButton" duration-ms="1642" started-at="2022-05-29T04:34:31 CDT" finished-at="2022-05-29T04:34:33 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComfyEliteContactUsPageSendButton -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase6@cb644e]" name="teardown" is-config="true" duration-ms="3869" started-at="2022-05-29T04:34:33 CDT" finished-at="2022-05-29T04:34:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase6 -->
+      <class name="scripts.TestCase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase1@72d818d1]" name="setup" is-config="true" duration-ms="1927" started-at="2022-05-29T04:33:50 CDT" finished-at="2022-05-29T04:33:52 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ComfyEliteContactUsPage()[pri:0, instance:scripts.TestCase1@72d818d1]" name="ComfyEliteContactUsPage" duration-ms="1551" started-at="2022-05-29T04:33:52 CDT" finished-at="2022-05-29T04:33:54 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComfyEliteContactUsPage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase1@72d818d1]" name="teardown" is-config="true" duration-ms="3997" started-at="2022-05-29T04:33:54 CDT" finished-at="2022-05-29T04:33:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase1 -->
+      <class name="scripts.TestCase2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase2@6e06451e]" name="setup" is-config="true" duration-ms="1284" started-at="2022-05-29T04:33:58 CDT" finished-at="2022-05-29T04:33:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ComfyEliteConnectWithUs()[pri:0, instance:scripts.TestCase2@6e06451e]" name="ComfyEliteConnectWithUs" duration-ms="1775" started-at="2022-05-29T04:33:59 CDT" finished-at="2022-05-29T04:34:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComfyEliteConnectWithUs -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase2@6e06451e]" name="teardown" is-config="true" duration-ms="3759" started-at="2022-05-29T04:34:01 CDT" finished-at="2022-05-29T04:34:05 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase2 -->
+      <class name="scripts.TestCase3">
+        <test-method status="PASS" signature="setup()[pri:0, instance:scripts.TestCase3@59494225]" name="setup" is-config="true" duration-ms="1221" started-at="2022-05-29T04:34:05 CDT" finished-at="2022-05-29T04:34:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ComfyEliteContactUs()[pri:0, instance:scripts.TestCase3@59494225]" name="ComfyEliteContactUs" duration-ms="1679" started-at="2022-05-29T04:34:06 CDT" finished-at="2022-05-29T04:34:07 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComfyEliteContactUs -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.TestCase3@59494225]" name="teardown" is-config="true" duration-ms="3885" started-at="2022-05-29T04:34:07 CDT" finished-at="2022-05-29T04:34:11 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.TestCase3 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
